@@ -22,7 +22,7 @@
 
 <!-- <img src="https://litsor.com/wp-content/uploads/2020/08/a53560c8088900e266880f779dacced7.gif"/> -->
 
-<img align="right" height="285px" alt="GIF" src="https://2.bp.blogspot.com/-EigcASB5K7I/W574Trz5taI/AAAAAAAAAPE/2ighmFLXWc4T6y8jobY_LoBqui0SuI6AwCLcBGAs/s1600/Kellan%252BAt%252BWork.gif"/>
+<img align="right" height="250px" alt="GIF" src="https://2.bp.blogspot.com/-EigcASB5K7I/W574Trz5taI/AAAAAAAAAPE/2ighmFLXWc4T6y8jobY_LoBqui0SuI6AwCLcBGAs/s1600/Kellan%252BAt%252BWork.gif"/>
 
 ### I am a student inveterate computer
 - 🤠 Every day I try to improve my code.
